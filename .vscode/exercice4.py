@@ -33,7 +33,7 @@ class CompteBancaire:
 compte = CompteBancaire("Omar AFIFI", 1000)
 
 
-compte.setTitulaire("Omar CASA")
+compte.setTitulaire("Omar Cbabababbbbbbbbb")
 compte.getTitulaire()
 
 compte.deposer(200)  
